@@ -1,0 +1,35 @@
+h3{
+    text-align:right;
+  color:brown;
+  }
+  body{
+    background-color:#6AF9FC;
+    text-align:center;
+}
+.links{
+  float:left;
+  display:block;
+  padding:8px;
+}
+.menu{
+  background-color:lawngreen;
+  z-index:99999;
+  margin-bottom:80px;
+  list-style-type:none;
+  overflow:hidden;
+  color:white;
+}
+.menu a:hover{
+  background-color:rgb(25, 79, 179);
+  cursor:pointer;
+}
+#img76{
+    transition:transform .2s;
+    border:10px solid #AAAAAA;
+}
+#img76:hover{
+  transform:scale(0.9);
+}
+#inspire{
+    text-align:center;
+}
